@@ -28,7 +28,7 @@ I am a result-driven student who wants to learn programming and DevOps.
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/krrish25bsa10118
 
 <!--
 **krrish25bsa10118/krrish25bsa10118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
